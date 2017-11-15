@@ -47,6 +47,9 @@ local.properties
 .loadpath
 .recommenders
 
+##ideaa
+*.iml
+
 # External tool builders
 .externalToolBuilders/
 
