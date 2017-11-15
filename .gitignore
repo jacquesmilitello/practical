@@ -49,6 +49,7 @@ local.properties
 
 ##ideaa
 *.iml
+.idea/**
 
 # External tool builders
 .externalToolBuilders/
